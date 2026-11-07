@@ -1,0 +1,5 @@
+{"jobs":[
+{"title":"Machine Learning Engineer", "company":"Example Fintech (DEMO)", "location":"Singapore", "url":"https://example.com/jobs/demo-ml-1", "description":"Python, SQL, Azure, Docker and credit risk. 2+ years of experience.", "verification":"demo", "source":"demo", "evidence_excerpt":"Synthetic example; not a real vacancy"},
+{"title":"Principal AI Engineer", "company":"Example AI (DEMO)", "location":"Dubai", "url":"https://example.com/jobs/demo-principal", "description":"Python. 10 years of experience.", "verification":"demo", "source":"demo"},
+{"title":"Data Scientist", "company":"Example Bank (DEMO)", "location":"London", "url":"https://example.com/jobs/demo-ds", "description":"Python SQL pandas credit risk, 3-5 years of experience", "verification":"demo", "source":"demo"}
+]}

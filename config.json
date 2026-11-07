@@ -1,0 +1,149 @@
+{
+  "profile": {
+    "name": "Saksham Singhal",
+    "experience_years": 2,
+    "background": "Former UBS data scientist; production Azure OpenAI credit-risk commentary and attribution, 25,000 counterparties/day, 5-country rollout; BITS Pilani BE Electronics & Instrumentation; immediately available. India work authorization; overseas sponsorship or work authorization must be checked.",
+    "role_keywords": [
+      "machine learning",
+      "ml engineer",
+      "ai engineer",
+      "artificial intelligence",
+      "generative ai",
+      "genai",
+      "llm",
+      "applied scientist",
+      "data scientist",
+      "mlops",
+      "quantitative",
+      "quant developer"
+    ],
+    "skills": [
+      "python",
+      "sql",
+      "azure",
+      "openai",
+      "docker",
+      "kubernetes",
+      "pytest",
+      "dash",
+      "pandas",
+      "numpy",
+      "llm",
+      "data pipelines",
+      "credit risk"
+    ],
+    "regions": {
+      "Singapore": [
+        "Singapore"
+      ],
+      "UAE": [
+        "UAE",
+        "United Arab Emirates",
+        "Dubai",
+        "Abu Dhabi"
+      ],
+      "Australia": [
+        "Australia",
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Perth",
+        "Canberra",
+        "Adelaide"
+      ],
+      "Europe": [
+        "United Kingdom",
+        "UK",
+        "London",
+        "Ireland",
+        "Dublin",
+        "Germany",
+        "Berlin",
+        "Munich",
+        "Frankfurt",
+        "Netherlands",
+        "Amsterdam",
+        "France",
+        "Paris",
+        "Switzerland",
+        "Zurich",
+        "Poland",
+        "Warsaw",
+        "Sweden",
+        "Stockholm",
+        "Spain",
+        "Madrid",
+        "Italy",
+        "Milan",
+        "Denmark",
+        "Copenhagen",
+        "Portugal",
+        "Lisbon"
+      ],
+      "India": [
+        "India",
+        "Bengaluru",
+        "Bangalore",
+        "Hyderabad",
+        "Gurgaon",
+        "Gurugram",
+        "Delhi",
+        "Mumbai",
+        "Pune",
+        "Chennai",
+        "Noida"
+      ]
+    }
+  },
+  "filters": {
+    "max_required_years": 4,
+    "exclude_title_terms": [
+      "principal",
+      "staff",
+      "head",
+      "director",
+      "manager",
+      "intern",
+      "internship",
+      "lead"
+    ],
+    "allowed_companies": [],
+    "excluded_companies": [],
+    "preferred_companies": [
+      "UBS",
+      "JPMorgan Chase",
+      "Goldman Sachs",
+      "Morgan Stanley",
+      "Bloomberg",
+      "BlackRock",
+      "Visa",
+      "Mastercard",
+      "Microsoft",
+      "Amazon",
+      "Google",
+      "Grab",
+      "Revolut",
+      "Wise",
+      "Atlassian",
+      "Canva"
+    ]
+  },
+  "search": {
+    "model": "gpt-4.1",
+    "jobs_per_call": 8,
+    "recent_days": 30,
+    "max_output_tokens": 6000
+  },
+  "career_boards": [
+    {
+      "provider": "greenhouse",
+      "slug": "stripe",
+      "company": "Stripe"
+    },
+    {
+      "provider": "greenhouse",
+      "slug": "databricks",
+      "company": "Databricks"
+    }
+  ]
+}

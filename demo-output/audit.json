@@ -1,0 +1,110 @@
+{
+  "run": {
+    "started_at": "2026-11-07T09:55:08+00:00",
+    "mode": "demo",
+    "errors": [],
+    "search_calls": []
+  },
+  "jobs": [
+    {
+      "title": "Machine Learning Engineer",
+      "company": "Example Fintech (DEMO)",
+      "location": "Singapore",
+      "country": "",
+      "description": "Python, SQL, Azure, Docker and credit risk. 2+ years of experience.",
+      "posted_at": "",
+      "salary": "",
+      "work_authorization": "",
+      "evidence_excerpt": "Synthetic example; not a real vacancy",
+      "requisition_id": "",
+      "url": "https://example.com/jobs/demo-ml-1",
+      "source": "demo",
+      "verification": "demo",
+      "id": "e7d031b770796dc35d918015",
+      "score": 90,
+      "matched_skills": [
+        "python",
+        "sql",
+        "azure",
+        "docker",
+        "credit risk"
+      ],
+      "flags": [
+        "Work authorization/sponsorship unknown",
+        "Search/import lead: confirm availability and requirements",
+        "Posting date unknown"
+      ],
+      "rejection_reasons": [],
+      "decision": "shortlist",
+      "new": true,
+      "first_seen": "2026-11-07T09:55:08+00:00",
+      "application_status": "discovered"
+    },
+    {
+      "title": "Principal AI Engineer",
+      "company": "Example AI (DEMO)",
+      "location": "Dubai",
+      "country": "",
+      "description": "Python. 10 years of experience.",
+      "posted_at": "",
+      "salary": "",
+      "work_authorization": "",
+      "evidence_excerpt": "",
+      "requisition_id": "",
+      "url": "https://example.com/jobs/demo-principal",
+      "source": "demo",
+      "verification": "demo",
+      "id": "9a682048da0a0ab3f06d2fd7",
+      "score": 60,
+      "matched_skills": [
+        "python"
+      ],
+      "flags": [
+        "Work authorization/sponsorship unknown",
+        "Search/import lead: confirm availability and requirements",
+        "Posting date unknown"
+      ],
+      "rejection_reasons": [
+        "Excluded seniority/role",
+        "Explicit experience minimum 10 exceeds configured limit"
+      ],
+      "decision": "reject",
+      "new": true,
+      "first_seen": "2026-11-07T09:55:08+00:00",
+      "application_status": "discovered"
+    },
+    {
+      "title": "Data Scientist",
+      "company": "Example Bank (DEMO)",
+      "location": "London",
+      "country": "",
+      "description": "Python SQL pandas credit risk, 3-5 years of experience",
+      "posted_at": "",
+      "salary": "",
+      "work_authorization": "",
+      "evidence_excerpt": "",
+      "requisition_id": "",
+      "url": "https://example.com/jobs/demo-ds",
+      "source": "demo",
+      "verification": "demo",
+      "id": "10992fa4ce3402217c4ece0a",
+      "score": 75,
+      "matched_skills": [
+        "python",
+        "sql",
+        "pandas",
+        "credit risk"
+      ],
+      "flags": [
+        "Work authorization/sponsorship unknown",
+        "Search/import lead: confirm availability and requirements",
+        "Posting date unknown"
+      ],
+      "rejection_reasons": [],
+      "decision": "shortlist",
+      "new": true,
+      "first_seen": "2026-11-07T09:55:08+00:00",
+      "application_status": "discovered"
+    }
+  ]
+}
